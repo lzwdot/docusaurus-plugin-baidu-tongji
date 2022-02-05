@@ -1,0 +1,26 @@
+{
+  "name": "docusaurus-plugin-baidu-tongji",
+  "version": "0.0.0-beta.1",
+  "author": {
+    "name": "lzw."
+  },
+  "description": "A baidu tongji plugin for docusaurus v2",
+  "main": "lib/index.js",
+  "keywords": [
+    "baidu tongji",
+    "docusaurus v2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzwdot/docusaurus-plugin-baidu-tongji"
+  },
+  "homepage": "https://github.com/lzwdot/docusaurus-plugin-baidu-tongji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lzwdot/docusaurus-plugin-baidu-tongji/issues"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "^2.0.0-beta.15",
+    "@docusaurus/utils-validation": "^2.0.0-beta.15"
+  }
+}
